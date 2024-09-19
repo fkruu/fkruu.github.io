@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://fkruu.github.io/hml/sitemap.hml.gz
